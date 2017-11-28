@@ -2,6 +2,6 @@ public class Trial
 {
 public static void main(String[] args)
 {
-System.out.println("Welcome to Altisource Learning Center 1");
+System.out.println("Welcome to Altisource Learning Centerof excellence");
 }
 }
